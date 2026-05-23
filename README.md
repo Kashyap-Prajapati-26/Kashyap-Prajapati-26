@@ -18,7 +18,7 @@
 
 - **Languages:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,php" />
 </p>
 
 - **Frameworks / Libraries:**  
@@ -40,7 +40,7 @@
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-Agent-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antigravity-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
