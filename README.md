@@ -13,7 +13,6 @@
 - 📊 Data Analytics & Project Building
 - 🔧 Git, GitHub, and development tools
 
-## Skills
 
 ## Skills
 
