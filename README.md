@@ -24,43 +24,19 @@
 
 - **Frameworks / Libraries:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,fastapi,hibernate" />
 </p>
 
 - **Database:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 - **Developer Tools:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp" />
 </p>
 
-- **Deployment / Platforms:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,docker,linux,bash" />
-</p>
-
-- **Data / Analytics / CS Tools:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv" />
-</p>
-
-- **Design / Productivity Tools:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,notion" />
-</p>
-
-- **AI / Modern Tools:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
-
-- **Currently Exploring:**  
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,mongodb,git" />
-</p>
 
 ## Goals
 - Build useful software projects
