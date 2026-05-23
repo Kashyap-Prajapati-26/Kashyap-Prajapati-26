@@ -23,7 +23,7 @@
 
 - **Frameworks / Libraries:**  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,fastapi,hibernate" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,fastapi,flutter" />
 </p>
 
 - **Database:**  
